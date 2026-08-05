@@ -1,26 +1,13 @@
 # IIDX SP☆12 OPTION MANAGER
 
-`sp12.iidx.app` の公開APIから、beatmania IIDX のSP☆12楽曲のみを取得して表示するブラウザツールです。
+公開URL: https://farewell2236.github.io/naide/
 
-## GitHub Pagesで公開する方法
+## 初回公開手順
 
-1. このフォルダ内の `index.html` と `README.md` をGitHubリポジトリ直下へアップロードします。
-2. GitHubのリポジトリで **Settings** → **Pages** を開きます。
-3. **Build and deployment** の Source を **Deploy from a branch** にします。
-4. Branchを `main`、フォルダを `/(root)` にして **Save** を押します。
-5. 表示されたGitHub PagesのURLを開きます。
+1. このフォルダ内のファイルを、`farewell2236/naide` リポジトリのルートへアップロードします。
+2. GitHubの **Actions** タブを開きます。
+3. 左側の **Update SP12 songs** を選択し、**Run workflow** を押します。
+4. 完了後、`songs.json` に楽曲が入ります。
+5. **Settings → Pages** で `Deploy from a branch`、`main`、`/(root)` を選択します。
 
-## データについて
-
-- SP☆12のみを取得します。
-- ☆11用データは取得しません。
-- ノマゲ／ハード難易度表を切り替えられます。
-- 選択したオプションはブラウザの `localStorage` に保存されます。
-- バックアップの保存と読込に対応しています。
-
-## ファイル構成
-
-```text
-index.html  アプリ本体
-README.md   説明
-```
+以後、楽曲データは毎日1回自動更新されます。画面の「曲データ更新」は、生成済みの `songs.json` を再読み込みします。
