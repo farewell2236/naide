@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:54:17+00:00",
+  "updatedAt": "2026-08-07T20:09:58+00:00",
   "sourceUrl": "https://sp12.iidx.app/api/v1/sheets",
   "data": [
     {
@@ -5989,6 +5989,24 @@
     },
     {
       "title": "super double play sessions",
+      "chart": "SP☆12",
+      "ver": "33",
+      "normal": "未定",
+      "hard": "未定",
+      "level": 12,
+      "source": "sp12.iidx.app"
+    },
+    {
+      "title": "Iridescent Memories",
+      "chart": "SP☆12",
+      "ver": "33",
+      "normal": "未定",
+      "hard": "未定",
+      "level": 12,
+      "source": "sp12.iidx.app"
+    },
+    {
+      "title": "サタデーナイト☆ギャロップ",
       "chart": "SP☆12",
       "ver": "33",
       "normal": "未定",
