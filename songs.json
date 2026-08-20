@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:15:23+00:00",
+  "updatedAt": "2026-08-20T19:48:48+00:00",
   "sourceUrl": "https://sp12.iidx.app/api/v1/sheets",
   "data": [
     {
@@ -6009,6 +6009,24 @@
       "title": "サタデーナイト☆ギャロップ",
       "chart": "SP☆12",
       "ver": "33",
+      "normal": "未定",
+      "hard": "未定",
+      "level": 12,
+      "source": "sp12.iidx.app"
+    },
+    {
+      "title": "Raison d'etre～交差する宿命～†",
+      "chart": "SP☆12",
+      "ver": "17",
+      "normal": "未定",
+      "hard": "未定",
+      "level": 12,
+      "source": "sp12.iidx.app"
+    },
+    {
+      "title": "27th style†",
+      "chart": "SP☆12",
+      "ver": "27",
       "normal": "未定",
       "hard": "未定",
       "level": 12,
